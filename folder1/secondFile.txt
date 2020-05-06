@@ -1,3 +1,5 @@
-This is a second file created in folder1 of myFirstGithubRepository.
+This is a second file created in folder1 of myFirstGithubRepository.  Added in branch2.
 
 This is a change made locally.
+
+This change was made in branch2 branch.
