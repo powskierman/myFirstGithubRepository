@@ -3,3 +3,5 @@ This is a second file created in folder1 of myFirstGithubRepository.  Added in b
 This is a change made locally.
 
 This change was made in branch2 branch.
+
+Another modification.
